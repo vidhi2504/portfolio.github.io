@@ -41,11 +41,11 @@ const Hero = () => {
               View My Work
             </button>
             
-            <a target="_blank" href='https://drive.google.com/file/d/1gt4spHgUMO2zh4tm9sZu0AwhPPTEXNKR/view?usp=sharing'><button className="border-2 border-blue-600 text-white-600 hover:bg-blue-600 hover:text-white px-8 py-4 rounded-lg font-semibold transition-all duration-300 flex items-center gap-2">
+            {/* <a target="_blank" href='https://drive.google.com/file/d/1gt4spHgUMO2zh4tm9sZu0AwhPPTEXNKR/view?usp=sharing'><button className="border-2 border-blue-600 text-white-600 hover:bg-blue-600 hover:text-white px-8 py-4 rounded-lg font-semibold transition-all duration-300 flex items-center gap-2">
               <Download size={20} />
               View Resume
             </button>
-            </a>
+            </a> */}
           </div>
           
           <div className="flex items-center justify-center gap-6 mb-16">

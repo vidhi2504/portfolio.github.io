@@ -37,12 +37,12 @@ const Contact = () => {
       value: '+91 7970061651',
       href: 'tel:+917970061651'
     },
-    {
-      icon: <MapPin size={24} />,
-      label: 'Location',
-      value: 'Hyderabad, India',
-      href: '#'
-    }
+    // {
+    //   icon: <MapPin size={24} />,
+    //   label: 'Location',
+    //   value: 'Hyderabad, India',
+    //   href: '#'
+    // }
   ];
 
   const socialLinks = [

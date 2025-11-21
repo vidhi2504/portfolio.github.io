@@ -8,9 +8,12 @@ const Skills = () => {
         { name: 'React.js', level: 90 },
         { name: 'TypeScript', level: 85 },
         { name: 'Next.js', level: 80 },
-        { name: 'Tailwind CSS', level: 95 }
+        { name: 'Tailwind CSS', level: 95 },
+        { name: 'HTML CSS', level: 98 },
+        { name: 'Websocket', level: 90 },
       ]
-    },
+    }, // <-- FIXED MISSING CLOSING BRACE
+
     {
       title: 'Backend Technologies',
       skills: [
@@ -18,6 +21,7 @@ const Skills = () => {
         { name: 'Java', level: 50 }
       ]
     },
+
     {
       title: 'Tools & Platforms',
       skills: [
@@ -92,6 +96,7 @@ const Skills = () => {
             </div>
           </div>
         </div>
+
       </div>
     </section>
   );

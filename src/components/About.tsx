@@ -41,7 +41,7 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-16 items-center mb-16">
           <div className="space-y-6">
             <p className="text-lg text-gray-700 leading-relaxed">
-              I'm a passionate software engineer with over 2.5 years of experience in full-stack 
+              I'm a passionate software engineer with experience in full-stack 
               development. I specialize in React, Next js, JavaScript, Java and modern web technologies, with a 
               strong focus on creating scalable applications that deliver exceptional user experiences.
             </p>
